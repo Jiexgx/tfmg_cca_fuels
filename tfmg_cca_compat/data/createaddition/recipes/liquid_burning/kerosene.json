@@ -1,7 +1,7 @@
 {
     "type":"createaddition:liquid_burning",
     "input": {
-          "fluid": "tfmg:kerosene",
+          "fluid": "createindustry:kerosene",
 
           "amount": 1000
     },
