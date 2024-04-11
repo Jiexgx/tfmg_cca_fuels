@@ -1,7 +1,7 @@
 {
     "type":"createaddition:liquid_burning",
     "input": {
-          "fluid": "tfmg:lpg",
+          "fluid": "createindustry:lpg",
 
           "amount": 1000
     },
