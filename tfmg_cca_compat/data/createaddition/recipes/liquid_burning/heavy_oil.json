@@ -1,7 +1,7 @@
 {
     "type":"createaddition:liquid_burning",
     "input": {
-          "fluid": "tfmg:heavy_oil",
+          "fluid": "createindustry:heavy_oil",
 
           "amount": 1000
     },
